@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903942246717",
+    "project_id": "safe-path-flutter",
+    "storage_bucket": "safe-path-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903942246717:android:9ddffe640f2ad10e07f554",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.safe_path"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMOwMyPhkBLG7k-ksS8SZS8YAbGdfxKd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
